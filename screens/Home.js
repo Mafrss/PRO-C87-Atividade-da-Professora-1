@@ -10,7 +10,7 @@ export default class HomeScreen extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Tela Inicial!</Text>
+                <Text>Home Screen!</Text>
             </View>
         )
     }

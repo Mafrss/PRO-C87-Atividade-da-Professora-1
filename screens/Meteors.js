@@ -10,7 +10,7 @@ export default class MeteorScreen extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Tela de Meteoros!</Text>
+                <Text>Meteor Screen!</Text>
             </View>
         )
     }

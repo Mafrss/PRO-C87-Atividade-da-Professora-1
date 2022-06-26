@@ -10,7 +10,7 @@ export default class IssLocationScreen extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Tela de Localização da EEI!</Text>
+                <Text>ISS Location Screen!</Text>
             </View>
         )
     }
